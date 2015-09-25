@@ -2,6 +2,7 @@
 Ackermann_in_C
 #include<stdio.h>
 int ack(int x, int y);
+
 int main()
 {
 
